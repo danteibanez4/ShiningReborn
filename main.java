@@ -15,6 +15,11 @@ public class main {
         //Hello World test
         System.out.println("Hello World");
 
+        System.out.println("Redundant update");
 
+    }
+
+    public static void consoleDebuggingLog(){
+        System.out.println("!!For debugging purposes. Kill the program if any problem arises!!");
     }
 }
